@@ -14,7 +14,8 @@
 * [Paypal](https://www.paypal.com) - PayPal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account.
 * [Recurly](https://recurly.com) - Recurly provides enterprise-class subscription billing management for thousands of businesses worldwide.
 * [Securion Pay](https://securionpay.com) - Increase your conversions with our payment gateway for online merchants. Enjoy the best experience, easiest integration and highest security.
-* [Splash] (https://splashpayments.com/) - Custom payment solutions for platforms and marketplaces.
+* [Splash](https://splashpayments.com/) - Custom payment solutions for platforms and marketplaces.
+* [Square](https://squareup.com/) - Square helps millions of sellers run their business from secure credit card processing to point of sale solutions.
 * [Stripe](https://stripe.com) - Stripe is a suite of APIs that powers commerce for businesses of all sizes.
 * [Xendit](https://www.xendit.co) - Indonesia's payment gateway. Pay, receive money fast. Free, secure payments online and mobile. Step-by-step find out more now. Transfer money via API.
 
