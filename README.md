@@ -7,6 +7,7 @@
 * [Cardnity](https://cardinity.com/) - Online card payment processing provider. Competitive prices, proffesional assistance and smooth integration guaranteed.
 * [Chargebee](https://www.chargebee.com) - Chargebee lets you automate your recurring billing, manage subscriptions at scale and access metrics that matter.
 * [Chargify](https://www.chargify.com/) - Chargify is the best online billing software for all of your Recurring Billing needs.
+* [Fasapay](https://www.fasapay.com/) - FasaPay is an online payment gateway that linking your payment transaction to your website. No need manual processing. With FasaPay, transaction is faster, safer and automatic.
 * [Midtrans](https://midtrans.com/) / formerly Veritrans - Optimizes online business by providing online payment systems, data analysis for risk management and chat-to-buy.
 * [Nicepay](https://nicepay.co.id/) - Nicepay is an online payment service solution provider that offers various types of reliable payment channels.
 * [Paddle](https://paddle.com/) - Everything you need to sell software.
