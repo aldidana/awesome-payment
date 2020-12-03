@@ -8,6 +8,7 @@
 * [Chargebee](https://www.chargebee.com) - Chargebee lets you automate your recurring billing, manage subscriptions at scale and access metrics that matter.
 * [Chargify](https://www.chargify.com/) - Chargify is the best online billing software for all of your Recurring Billing needs.
 * [Midtrans](https://midtrans.com/) / formerly Veritrans - Optimizes online business by providing online payment systems, data analysis for risk management and chat-to-buy.
+* [Nicepay](https://nicepay.co.id/) - Nicepay is an online payment service solution provider that offers various types of reliable payment channels.
 * [Paddle](https://paddle.com/) - Everything you need to sell software.
 * [Paylane](http://paylane.com) - PayLane provides the best online payments solutions for SaaS & Ecommerce businesses.
 * [Paymentwall](https://www.paymentwall.com) - Paymentwall is a global digital content distribution and ecommerce platform for selling games, digital content, and subscriptions to end users.
